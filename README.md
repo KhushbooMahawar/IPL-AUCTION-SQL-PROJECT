@@ -1,1 +1,3 @@
 # IPL-AUCTION-SQL-PROJECT
+
+The IPL auction is about developing an auction strategy for a new IPL franchise by analyzing past IPL data to create a strong and balanced squad. The IPL is a professional Twenty20 cricket league in India contested by eight teams. The auction strategy involves considering factors such as budget, team needs, player availability, player form, and player value. The goal is to strike a balance between these factors and create a well-thought-out strategy. The first step is to gather and analyze available data on eligible players, create player profiles and rankings, and make a list of target players for the auction. The strategy includes bidding on aggressive batsmen, anchor batsmen, hard hitters, and economical bowlers based on specific criteria. 
